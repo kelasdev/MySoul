@@ -1,0 +1,8 @@
+{
+    "name": "SOUL",
+    "version": "1.2.3",
+    "main": "index.ts",
+    "omp": {
+        "extensions": ["index.ts"]
+    }
+}
